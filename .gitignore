@@ -1,0 +1,7 @@
+Medi-Qr-main/
+.expo-home/
+MediQR/.expo/
+MediQR/node_modules/
+disease-predictor/backend/__pycache__/
+*.pyc
+.env
